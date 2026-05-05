@@ -2,7 +2,7 @@
 
 <p id="description">A lightweight CLI tool for developers to manage projects automate workflows and improve productivity from the terminal.</p>
 
-<h2>🚀 Demo</h2>
+<h2>🚀 Live Website</h2>
 
 [https://ayaandhalait.github.io/dhctl](https://ayaandhalait.github.io/dhctl)
 
